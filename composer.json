@@ -17,9 +17,9 @@
         }
     ],
     "require": {
-        "illuminate/http": "*",
-        "illuminate/routing": "*",
-        "illuminate/support": "*"
+        "illuminate/http": "^10.10",
+        "illuminate/routing": "^10.10",
+        "illuminate/support": "^10.10"
     },
     "autoload": {
         "psr-4": {
